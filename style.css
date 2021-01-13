@@ -1,0 +1,53 @@
+/* carousel section starts */
+.carou-sec{
+    background-color: #FCEAE8;
+    border-radius: 15px;
+    margin-top: 80px;
+}
+.carou-sec h2{
+    color: #FF3682;
+}
+.btn-style{
+    background-color: #FF4791;
+    border: none;
+    padding: 8px 20px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+/* carousel section ends */
+
+/* watch section */
+.watch-sec img{
+    width: 80px;
+}
+.watch{
+   background-color: #FFA500;
+   border-radius: 10px;
+}
+.watch1{
+    background-color: #DA70D6;
+    border-radius: 10px;
+}
+.watch2{
+    background-color: #0000FF;
+    border-radius: 10px;
+}
+/* watch section */
+
+/* shoes section */
+.card-style{
+    border: none;
+    border-radius: 10px;
+}
+.card-style1{
+    border: none;
+    background-color: white;
+}
+/* shoes section */
+
+/* subscribe section */
+.subscribe{
+    background-color: #FCEAE8;
+    border-radius: 10px;
+}
+/* subscribe section */
